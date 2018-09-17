@@ -1,0 +1,11 @@
+﻿  funUtils.cpp
+c:\users\fariba\desktop\ts\ts\funutils.hpp(2): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  Slic.cpp
+c:\users\fariba\desktop\ts\ts\slic.hpp(15): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  SpxSvmTestEngine.cpp
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.hpp(26): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  Superpixel.cpp
+c:\users\fariba\desktop\ts\ts\superpixel.hpp(6): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+  TSRunner.cpp
+c:\users\fariba\desktop\ts\ts\tsrunner.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/highgui.hpp': No such file or directory
+  Generating Code...

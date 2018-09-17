@@ -1,0 +1,28 @@
+﻿  SpxSvmTestEngine.cpp
+c:\users\fariba\desktop\ts\ts\slic.hpp(30): warning C4091: 'static ': ignored on left of 'Slic::InitType' when no variable is declared
+c:\users\fariba\desktop\ts\ts\superpixel.hpp(20): warning C4091: 'static ': ignored on left of 'Pixel::State' when no variable is declared
+c:\users\fariba\desktop\ts\ts\superpixel.hpp(28): warning C4091: 'static ': ignored on left of 'Pixel::ColorSpace' when no variable is declared
+c:\users\fariba\desktop\ts\ts\superpixel.hpp(46): warning C4091: 'static ': ignored on left of 'Superpixel::FeatType' when no variable is declared
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(172): warning C4273: 'SpxSvmTestEngine::SpxSvmTestEngine': inconsistent dll linkage
+  c:\users\fariba\desktop\ts\ts\spxsvmtestengine.hpp(65): note: see previous definition of '{ctor}'
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(180): warning C4273: 'SpxSvmTestEngine::initialize': inconsistent dll linkage
+  c:\users\fariba\desktop\ts\ts\spxsvmtestengine.hpp(70): note: see previous definition of 'initialize'
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(189): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(225): warning C4273: 'SpxSvmTestEngine::loadTrainInputsFromFile': inconsistent dll linkage
+  c:\users\fariba\desktop\ts\ts\spxsvmtestengine.hpp(68): note: see previous definition of 'loadTrainInputsFromFile'
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(234): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(262): warning C4273: 'SpxSvmTestEngine::loadPretrainedModel': inconsistent dll linkage
+  c:\users\fariba\desktop\ts\ts\spxsvmtestengine.hpp(69): note: see previous definition of 'loadPretrainedModel'
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(268): warning C4273: 'SpxSvmTestEngine::run': inconsistent dll linkage
+  c:\users\fariba\desktop\ts\ts\spxsvmtestengine.hpp(71): note: see previous definition of 'run'
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(274): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\fariba\desktop\ts\ts\spxsvmtestengine.cpp(289): warning C4273: 'SpxSvmTestEngine::showResults': inconsistent dll linkage
+  c:\users\fariba\desktop\ts\ts\spxsvmtestengine.hpp(72): note: see previous definition of 'showResults'
+     Creating library C:\Users\Fariba\Desktop\TS\x64\Release\TS.lib and object C:\Users\Fariba\Desktop\TS\x64\Release\TS.exp
+  Generating code
+  11 of 1404 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TS.vcxproj -> C:\Users\Fariba\Desktop\TS\x64\Release\TS.exe
