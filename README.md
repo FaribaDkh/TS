@@ -15,5 +15,5 @@ superpixels are selected for labeling the the superpixels.
   <img src=https://github.com/FaribaDkh/TS/blob/master/tstrain.PNG width="250" /> 
   <img src=https://github.com/FaribaDkh/TS/blob/master/tsresult.PNG width="250" />
 </p>
-
+https://github.com/FaribaDkh/TS/blob/master/her2_new.pdf
 
