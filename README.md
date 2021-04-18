@@ -1,4 +1,4 @@
-### Tissue segmentation using LBP features.
+### Tissue segmentation with labeling superpixels and using SVM classification to classify superpixels.
 
 superpixels are selected for labeling the the superpixels.
 <p float="center">
