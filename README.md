@@ -8,3 +8,12 @@ superpixels are selected for labeling the the superpixels.
 </p>
 
 
+### background extraction in IHC images
+
+<p float="center">
+  <img src=https://github.com/FaribaDkh/TS/blob/master/ts1.PNG width="250" />
+  <img src=https://github.com/FaribaDkh/TS/blob/master/tstrain.PNG width="250" /> 
+  <img src=https://github.com/FaribaDkh/TS/blob/master/tsresult.PNG width="250" />
+</p>
+
+
