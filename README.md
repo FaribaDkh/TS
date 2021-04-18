@@ -16,5 +16,5 @@ superpixels are selected for labeling the the superpixels.
   <img src=https://github.com/FaribaDkh/TS/blob/master/tsresult.PNG width="250" />
 </p>
 project for pattern recognition course 
-https://github.com/FaribaDkh/TS/blob/master/her2_new.pdf
+https://github.com/FaribaDkh/TS/blob/master/her2_new.pdf </br>
 Part of https://github.com/fderue/SPX_SVM is used in our project
